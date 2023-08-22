@@ -1,6 +1,6 @@
 # FLOW BEGINNER (MODULE-06)
 
-## Minting NFTand get meta data of the NFT
+## Minting NFT and see meta data of the NFT!
 Here We have learnt how to mint an nft and see the ID and meta data file of the NFT where you get every thing to know about the particular NFT
 
 ## Getting Started
